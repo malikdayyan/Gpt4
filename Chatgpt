@@ -1,0 +1,8 @@
+Jisko bhi repository wala nai ho raha task ye video dekho
+
+
+Code: class Main { public static void main(String[] args) { int first = 10; int second = 20; // add two numbers int sum = first + second; System.out.println(first + " + " + second + " = " + sum); } }
+
+
+
+And ye hone ke baad apne profile ka link bhejo idhar mai star aur fork karwata hu
